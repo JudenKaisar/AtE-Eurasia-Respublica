@@ -1,0 +1,6 @@
+2660.1.1={
+	liege=k_united_provinces_of_central_italy
+}
+2660.1.1={
+	holder=
+}

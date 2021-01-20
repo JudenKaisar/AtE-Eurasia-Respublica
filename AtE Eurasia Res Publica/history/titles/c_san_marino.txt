@@ -1,0 +1,6 @@
+2660.1.1={
+	liege=k_san_marino
+}
+2660.1.1={
+	holder=
+}

@@ -1,0 +1,29 @@
+decisions = {
+
+gain_family_estate = {
+	potential = {
+	government = democratic_government
+	}
+	allow = {
+	wealth = 5
+	}
+	effect = {
+	create_title = {
+						tier = COUNT
+						name = "[name_target.GetBaseName] Family"
+						landless = yes
+						temporary = no
+						custom_created = yes
+						base_title = THIS
+						ruler = "Patriarch"
+						ruler_female = "Matriarch"
+					}
+	
+	
+	}
+}
+}
+
+		
+
+	

@@ -1,0 +1,4 @@
+2660.1.1={
+	law=succ_democratic_elective
+	law=crown_term_length_0
+}

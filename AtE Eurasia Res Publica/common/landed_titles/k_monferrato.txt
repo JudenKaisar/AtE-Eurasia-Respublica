@@ -1,0 +1,23 @@
+d_monferrato = {
+	color={ 132 27 45 }
+
+	allow = {
+		always = yes 
+	}
+
+	title = "princeps"
+	title_female="pricepessa"
+	title_prefix = "Principality of"
+	landless = no 
+	primary = yes
+	purple_born_heirs = yes
+	can_be_claimed = no
+	can_be_usurped = no
+	male_names = {
+		Alexander Alexius Andronicus Antonius Augustus Bernardus Bonifacius 
+		Caesar Cristopherus Constantinus Fabritius Federicus Flaminius Franciscus Franciscus-Antonius Fulvius
+		Georgius Hadrianus Hannibal Hercules-Agustinus
+		Iacobus Iohannes Iohannes-Baptistae Iustinus Iustinianus
+		Lucius Marcus Michahel Nicopherus Petrus Raphael Romanus Secundus Silvius Titus
+	}
+}

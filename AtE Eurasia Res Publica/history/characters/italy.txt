@@ -1,0 +1,873 @@
+1861000={
+	name="William" 
+	dynasty=1101091 #Baskerville
+	culture=westerner
+	religion=catholic
+	martial=6
+	diplomacy=9
+	stewardship=6
+	intrigue=6
+	learning=10
+	trait=mastermind_theologian
+	trait=proud
+	trait=zealous
+	trait=diligent
+	trait=genius
+	trait=erudite
+	trait=scholar
+	trait=ambitous
+	trait=brave
+	trait=just
+	2628.7.20={birth=yes}
+	2660.1.1={employer=1861002}
+	2700.1.1={death=yes}
+}
+1861001={
+	name="Adso" 
+	dynasty=1951111 #von Melk
+	culture=austrian
+	religion=catholic
+	martial=6
+	diplomacy=6
+	stewardship=6
+	intrigue=6
+	learning=8
+	trait=scholarly_theologian
+	trait=humble
+	trait=zealous
+	trait=diligent
+	trait=chaste
+	trait=erudite
+	trait=kind
+	trait=brave
+	trait=quick
+	2649.2.7={birth=yes}
+	2660.1.1={employer=1861002}
+	2700.1.1={death=yes}
+}
+1861002={
+	name="Abo" 
+	dynasty=2029199 #di Fossanova
+	culture=umbrian
+	religion=catholic
+	martial=6
+	diplomacy=9
+	stewardship=8
+	intrigue=6
+	learning=9
+	trait=scholarly_theologian
+	trait=proud
+	trait=zealous
+	trait=diligent
+	trait=groomed
+	trait=authoritative
+	trait=ambitious
+	2611.6.3={birth=yes}
+	2700.1.1={death=yes}
+}
+1861003={
+	name="Severin" 
+	dynasty=1848121 #von Sankt Wendel
+	culture=rhenish
+	religion=catholic
+	martial=8
+	diplomacy=8
+	stewardship=8
+	intrigue=8
+	learning=9
+	trait=scholarly_theologian
+	trait=gardener
+	trait=physician
+	trait=trusting
+	trait=erudite
+	trait=honest
+	trait=charitable
+	trait=diligent
+	2625.7.6={birth=yes}
+	2660.1.1={employer=1861002}
+	2700.1.1={death=yes}
+}
+1861004={
+	name="Malachi" 
+	dynasty=1946151 #von Hildesheim
+	culture=low_saxon
+	religion=catholic
+	martial=6
+	diplomacy=6
+	stewardship=8
+	intrigue=6
+	learning=8
+	trait=scholarly_theologian
+	trait=diligent
+	trait=envious
+	trait=erudite
+	trait=deceitful
+	trait=paranoid
+	trait=homosexual
+	2631.2.9={birth=yes}
+	2660.1.1={employer=1861002}
+	2700.1.1={death=yes}
+}
+1861005={
+	name="Berengar" 
+	dynasty=1001073 #Arundel
+	culture=southerner
+	religion=catholic
+	trait=scholarly_theologian
+	trait=scholar
+	trait=proud
+	trait=lustful
+	trait=diligent
+	trait=groomed
+	trait=deceitful
+	trait=ambitious
+	trait=envious
+	trait=homosexual
+	trait=erudite
+	2640.4.15={birth=yes}
+	2660.1.1={employer=1861002}
+	2700.1.1={death=yes}
+}
+1861006={
+	name="Adelmo" 
+	dynasty=2027258 #D'Utrantu
+	culture=sicilian
+	religion=catholic
+	trait=scholarly_theologian
+	trait=homosexual
+	trait=zealous
+	trait=diligent
+	trait=scholar
+	trait=chaste
+	trait=depressed
+	2644.3.8={birth=yes}
+	2660.1.1={employer=1861002}
+	2700.1.1={death=yes}
+}
+1861007={
+	name="Venance" 
+	dynasty=2007226 #de Salvemec
+	culture=provencal
+	religion=catholic
+	trait=scholarly_theologian
+	trait=ambitious
+	trait=scholar
+	trait=erudite
+	trait=diligent
+	trait=envious
+	2645.12.6={birth=yes}
+	2660.1.1={employer=1861002}
+	2700.1.1={death=yes}
+}
+1861008={
+	name="Benno" 
+	dynasty=2220466 #af Uppsala
+	culture=swedish
+	religion=catholic
+	trait=scholarly_theologian
+	trait=proud
+	trait=diligent
+	trait=erudite
+	trait=scholar
+	trait=ambitious
+	trait=deceitful
+	trait=envious
+	trait=paranoid
+	2647.7.16={birth=yes}
+	2660.1.1={employer=1861002}
+	2700.1.1={death=yes}
+}
+1861009={
+	name="Alinardo" 
+	dynasty=2029200 #di Grottaferrata
+	culture=umbrian
+	religion=catholic
+	trait=scholarly_theologian
+	trait=scholar
+	trait=zealous
+	trait=honest
+	trait=patient
+	trait=dull
+	2585.5.2={birth=yes}
+	2660.1.1={employer=1861002}
+	2700.1.1={death=yes}
+}
+1861010={
+	name="Jorge" 
+	dynasty=2018201 #de Burgos
+	culture=castilian
+	religion=catholic
+	trait=mastermind_theologian
+	trait=stubborn
+	trait=zealous
+	trait=diligent
+	trait=theologian
+	trait=blind
+	trait=ruthless
+	trait=patient
+	trait=genius
+	2699.8.15={birth=yes}
+	2660.1.1={employer=1861002}
+	2700.1.1={death=yes}
+}
+1861011={
+	name="Remigio" 
+	dynasty=2033227 #da Varazze
+	culture=ligurian
+	religion=catholic
+	trait=martial_cleric
+	trait=humble
+	trait=deceitful
+	trait=lustful
+	trait=gluttonous
+	trait=brave
+	trait=gregarious
+	trait=zealous
+	trait=sturdy
+	2619.7.13={birth=yes}
+	2660.1.1={employer=1861002}
+	2700.1.1={death=yes}
+}
+1861012={
+	name="Salvari" 
+	dynasty=2026170 #di Monfra
+	culture=piedmontese
+	religion=catholic
+	trait=detached_priest
+	trait=ugly
+	trait=hunchback
+	trait=lustful
+	trait=craven
+	trait=deceitful
+	trait=gregarious
+	trait=uncouth
+	2623.6.27={birth=yes}
+	2660.1.1={employer=1861002}
+	2700.1.1={death=yes}
+}
+1861013={
+	name="Nicola" 
+	dynasty=2031233 #Marmondi
+	culture=lombard
+	religion=catholic
+	trait=martial_cleric
+	trait=charitable
+	trait=diligent
+	trait=zealous
+	trait=honest
+	trait=robust
+	trait=brave
+	2622.4.9={birth=yes}
+	2660.1.1={employer=1861002}
+	2700.1.1={death=yes}
+}
+1861014={
+	name="Aymaro" 
+	dynasty=2026168 #di Lissandria
+	culture=piedmontese
+	religion=catholic
+	trait=scholarly_theologian
+	trait=proud
+	trait=scholar
+	trait=erudite
+	trait=deceitful
+	trait=ambitious
+	trait=cruel
+	trait=envious
+	trait=gregarious
+	2641.6.18={birth=yes}
+	2660.1.1={employer=1861002}
+	2700.1.1={death=yes}
+}
+1861015={
+	name="Pacifico" 
+	dynasty=2029201 #di Tivoli
+	culture=umbrian
+	religion=catholic
+	trait=scholarly_theologian
+	trait=scholar
+	trait=erudite
+	trait=deceitful
+	2625.9.17={birth=yes}
+	2660.1.1={employer=1861002}
+	2700.1.1={death=yes}
+}
+1861016={
+	name="Pero" 
+	dynasty=2026169 #di Sant'Albano
+	culture=piedmontese
+	religion=catholic
+	trait=scholarly_theologian
+	trait=scholar
+	trait=erudite
+	trait=deceitful
+	2626.3.6={birth=yes}
+	2660.1.1={employer=1861002}
+	2700.1.1={death=yes}
+}
+1861017={
+	name="Gunzo" 
+	dynasty=2028220 #Di Nola
+	culture=neapolitan
+	religion=catholic
+	trait=scholarly_theologian
+	2626.1.4={birth=yes}
+	2660.1.1={employer=1861002}
+	2700.1.1={death=yes}
+}
+1861018={
+	name="Waldo" 
+	dynasty=1701071 #de Hereford
+	culture=midlander
+	religion=catholic
+	trait=scholarly_theologian
+	trait=scholar
+	trait=erudite
+	2620.3.16={birth=yes}
+	2660.1.1={employer=1861002}
+	2700.1.1={death=yes}
+}
+1861019={
+	name="Manus" 
+	dynasty=2001051 #I
+	culture=highlander
+	religion=catholic
+	trait=scholarly_theologian
+	trait=scholar
+	trait=erudite
+	2622.7.13={birth=yes}
+	2660.1.1={employer=1861002}
+	2700.1.1={death=yes}
+}
+1861020={
+	name="Pádraig" 
+	dynasty=1501028 #O'Keiran
+	culture=irish
+	religion=catholic
+	trait=scholarly_theologian
+	trait=scholar
+	trait=erudite
+	2627.1.3={birth=yes}
+	2660.1.1={employer=1861002}
+	2700.1.1={death=yes}
+}
+1861021={
+	name="Rabano" 
+	dynasty=2018202 #de Toledo
+	culture=castilian
+	religion=catholic
+	trait=scholarly_theologian
+	trait=scholar
+	trait=erudite
+	2624.2.12={birth=yes}
+	2660.1.1={employer=1861002}
+	2700.1.1={death=yes}
+}
+1861022={
+	name="Paolo" 
+	dynasty=2032258 #di Rimini
+	culture=romagnol
+	religion=catholic
+	trait=scholarly_theologian
+	trait=scholar
+	trait=erudite
+	trait=left_handed
+	trait=diligent
+	trait=zealous
+	2580.3.27={birth=yes}
+	2651.8.8={death=yes}
+}
+1861023={
+	name="Marco" 
+	dynasty=0
+	culture=umbrian
+	religion=catholic
+	trait=scholarly_theologian
+	trait=ambitious
+	2611.6.26={birth=yes}
+	2659.1.1={name="Martinus"}
+	2700.1.1={death=yes}
+}
+1861024={
+	name="Cosimo" #Florence
+	dynasty=2030091 #Medici
+	culture=tuscan
+	religion=catholic
+	martial=20
+	diplomacy=11
+	stewardship=8
+	intrigue=6
+	learning=11
+	trait=tough_soldier
+	trait=sturdy
+	trait=cruel
+	trait=brave
+	trait=ruthless
+	2636.9.26={birth=yes}
+	2711.1.13={death=yes}
+}
+1861025={
+	name="Umberto" #Arezzo
+	dynasty=2030109
+	culture=tuscan
+	religion=catholic
+	2625.5.12={birth=yes}
+	2700.1.1={death=yes}
+}
+1861026={
+	name="Matteo" #Lucca
+	dynasty=2030127 #Rossi 
+	culture=tuscan
+	religion=catholic
+	2611.6.28={birth=yes}
+	2700.1.1={death=yes}
+}
+1861027={
+	name="Giacomo" #Grosseto
+	dynasty=2030154 #Tomasi
+	culture=tuscan
+	religion=catholic
+	2626.3.11={birth=yes}
+	2700.1.1={death=yes}
+}
+1861028={
+	name="Raimondo" #Pisa
+	dynasty=2030179 #Buonarroti
+	culture=tuscan
+	religion=catholic
+	2601.12.25={birth=yes}
+	2700.1.1={death=yes}
+}
+1861029={
+	name="Flavio" #Siena
+	dynasty=2030200 #Pazzi
+	culture=tuscan
+	religion=catholic
+	2641.8.16={birth=yes}
+	2760.1.1={death=yes}
+}
+1861030={
+	name="Andrea" #Parma
+	dynasty=2032016
+	culture=romagnol
+	religion=catholic
+	2622.8.16={birth=yes}
+	2760.1.1={death=yes}
+}
+1861031={
+	name="Giuseppe" #Modena
+	dynasty=2032249
+	culture=romagnol
+	religion=catholic
+	2601.2.16={birth=yes}
+	2760.1.1={death=yes}
+}
+1861032={
+	name="Mario" #Bologna
+	dynasty=2032126
+	culture=romagnol
+	religion=catholic
+	2621.8.16={birth=yes}
+	2760.1.1={death=yes}
+}
+1861033={
+	name="Salvatore" #Ferrara
+	dynasty=2032074
+	culture=romagnol
+	religion=catholic
+	2631.8.16={birth=yes}
+	2760.1.1={death=yes}
+}
+1861034={
+	name="Benito" #Ravenna
+	dynasty=2032073
+	culture=romagnol
+	religion=catholic
+	2610.8.16={birth=yes}
+	2760.1.1={death=yes}
+}
+1861035={
+	name="Silvio" #Rimini
+	dynasty=2032079
+	culture=romagnol
+	religion=catholic
+	2635.8.16={birth=yes}
+	2760.1.1={death=yes}
+}
+1861036={
+	name="Marco"
+	dynasty=2032249
+	culture=romagnol
+	religion=catholic
+	2635.8.16={birth=yes}
+	2760.1.1={death=yes}
+}
+1975000={
+	name="Gianna"
+	female=yes
+	dynasty=2031234 #Agnesi
+	culture=lombard
+	religion=catholic
+	martial=5
+	diplomacy=4
+	stewardship=5
+	intrigue=6
+	learning=5
+	trait=grey_eminence
+	trait=quick
+	trait=groomed
+	trait=paranoid
+	trait=zealous
+	trait=charitable
+	trait=chaste
+	trait=wroth
+	trait=authoritative
+	2640.7.14={birth=yes}
+	2710.1.1={death=yes}
+}
+6970000={
+	name="Orso"
+	dynasty=2034227 #Manin
+	culture=venetian
+	religion=catholic
+	martial=5
+	diplomacy=4
+	stewardship=6
+	intrigue=5
+	learning=5
+	trait=martial_cleric
+	trait=blinded_age
+	trait=ambitious
+	trait=gregarious
+	trait=greedy
+	trait=cynical
+	2618.3.18={birth=yes}
+	2710.1.1={death=yes}
+}
+6970001={
+	name="Maria Grazia"
+	female=yes
+	dynasty=2034228 #
+	culture=venetian
+	religion=catholic
+	martial=4
+	diplomacy=6
+	stewardship=6
+	intrigue=5
+	learning=5
+	trait=elusive_shadow
+	trait=kind
+	trait=paranoid
+	trait=cynical
+	trait=chaste
+	2634.8.20={birth=yes}
+	2710.1.1={death=yes}
+}
+1929001={
+	name="Antonio"
+	dynasty=2029202 #Chigi
+	martial=3
+	diplomacy=4
+	stewardship=4
+	intrigue=5
+	learning=3
+	culture=umbrian
+	religion=catholic
+	trait=grey_eminence
+	trait=quick
+	trait=stutter
+	trait=groomed
+	trait=diligent
+	trait=content
+	trait=lustful
+	trait=just
+	2643.12.9={birth=yes}
+	2700.3.2=={death=yes}
+}
+1453007= {
+	name="Giovanni"
+	dynasty=2032259
+	martial=10
+	diplomacy=10
+	stewardship=10
+	intrigue=10
+	learning=10
+	culture=romagnol
+	religion=catholic
+	2631.12.12={birth=yes}
+	2660.1.1={ name="Iohannes"}
+	2733.3.29={death=yes}
+}
+1453008= {
+	name="Teodoro" #Primo
+	dynasty=2032259
+	culture=romagnol
+	religion=catholic
+	1290.1.1={birth=yes}
+	1306.1.1={ name="Lucius"}
+	1338.4.24={death=yes}
+}
+1453009= {
+	name="Giovanni" #Secondo
+	dynasty=2032259
+	culture=romagnol
+	religion=catholic
+	father=1453008
+	1321.2.5={birth=yes}
+	1338.4.24={ name="Iohannes"}
+	1372.3.29={death=yes}
+}
+1453010= {
+	name="Secondotto" #Terzzo
+	dynasty=2032259
+	culture=romagnol
+	religion=catholic
+	father=1453009
+	1358.2.2={birth=yes}
+	1372.4.24={ name="Secundus"}
+	1378.3.29={death=yes}
+}
+1453011= {
+	name="Giovanni" #Quarto
+	dynasty=2032259
+	culture=romagnol
+	religion=catholic
+	father=1453009
+	1363.2.2={birth=yes}
+	1378.12.16={name="Iohannes"}
+	1381.8.25={death=yes}
+}
+1453012= {
+	name="Teodoro" #Quinto
+	dynasty=2032259
+	culture=romagnol
+	religion=catholic
+	father=1453009
+	1364.9.5={birth=yes}
+	1381.8.25={name="Lucius"}
+	1418.4.16={death=yes}
+}
+1453013={
+	name="Giovanni" #Sesto
+	dynasty=2032259
+	culture=romagnol
+	religion=catholic
+	father=1453012
+	1395.3.23={birth=yes}
+	1418.4.16={name="Iohannes"}
+	1445.3.12={death=yes}
+}
+1453014={
+	name="Giovanni" #Settimo
+	dynasty=2032259
+	culture=romagnol
+	religion=catholic
+	father=1453013
+	1413.6.25={birth=yes}
+	1445.3.12={name="Iohannes"}
+	1464.1.19={death=yes}
+}
+1453015= { #{
+	name="Gulielmus" #Ottavo
+	dynasty=2032259
+	culture=romagnol
+	religion=catholic
+	father=1453013
+	1420.7.19={birth=yes}
+	1483.2.1={death=yes}
+}
+
+1453016={
+	name="Bonifacio"
+	dynasty=2032259
+	culture=romagnol
+	religion=catholic
+	father=1453013
+	1426.8.10={birth=yes}
+	1483.1.19={name="Bonifacius"}
+	1518.1.1={death=yes}
+}
+1453017={
+	name="Gulielmus" 
+	dynasty=2032259
+	culture=romagnol
+	religion=catholic
+	father=1453016
+	1486.8.10={birth=yes}
+	1518.10.4={death=yes}
+}
+1453018={
+	name="Bonifacio"
+	dynasty=2032259
+	culture=romagnol
+	religion=catholic
+	father=1453017
+	1512.12.21={birth=yes}
+	1518.10.4={name="Bonifacius"}
+	1530.6.6={death=yes}
+}
+1453019={
+	name="Giovanni"
+	dynasty=2032259
+	culture=romagnol
+	religion=catholic
+	father=1453016
+	1488.1.20={born=yes}
+	1530.6.6={name="Iohannes"}
+	1533.4.30={death=yes}
+}
+1453020={
+	name="Flaminio"
+	dynasty=2032259
+	culture=romagnol
+	religion=catholic
+	father=1453019
+	1518.6.11={birth=yes}
+	1533.4.30={name="Flaminius"}
+	1571.5.24={death=yes}
+}
+1453021={
+	name="Teodoro"
+	dynasty=2032259
+	culture=romagnol
+	religion=catholic
+	father=1453020
+	1545.3.12={birth=yes}
+	1571.5.24={name="Lucius"}
+	1586.7.9={death=yes}
+}
+1453022={
+	name="Flaminio"
+	dynasty=2032259
+	culture=romagnol
+	religion=catholic
+	father=1453021
+	1562.2.15={birth=yes}
+	1586.7.9={name="Flaminius"}
+	1624.11.16={death=yes}
+}
+1453023={
+	name="Federico"
+	dynasty=2032259
+	culture=romagnol
+	religion=catholic
+	father=1453022
+	1566.1.13={birth=yes}
+	1608.5.22={death=yes}
+}
+	
+1453024={
+	name="Pietro"
+	dynasty=2032259
+	culture=romagnol
+	religion=catholic
+	father=1453022
+	1582.3.1={birth=yes}
+	1624.11.16={name="Petrus"}
+	1648.5.29={death=yes}
+}
+1453025={
+	name="Biagio"
+	dynasty=2032259
+	culture=romagnol
+	religion=catholic
+	father=1453024
+	1622.3.26={birth=yes}
+	1648.5.29={name="Fabritius"}
+	1682.2.15={death=yes}
+}
+1453026={
+	name="Pietro"
+	dynasty=2032259
+	culture=romagnol
+	religion=catholic
+	father=1453025
+	1677.4.24={birth=yes}
+	1682.2.15={name="Petrus"}
+	1704.12.2={death=yes}
+}
+1453027={
+	name="Biagio"
+	dynasty=2032259
+	culture=romagnol
+	religion=catholic
+	father=1453026
+	1682.7.21={birth=yes}
+	1704.12.2={name="Fabritius"}
+	1753.8.4={death=yes}
+}
+1453028={
+	name="Pietro"
+	dynasty=2032259
+	culture=romagnol
+	religion=catholic
+	father=1453027
+	1719.6.13={birth=yes}
+	1753.8.4={name="Petrus"}
+	1767.4.23={death=yes}
+}
+1453029={
+	name="Michele"
+	dynasty=2032259
+	culture=romagnol
+	religion=catholic
+	father=1453028
+	1755.5.21={birth=yes}
+	1767.4.23={name=Michahel}
+	1816.10.21={death=yes}
+}
+1453030={
+	name="Andrea"
+	dynasty=2032259
+	culture=romagnol
+	religion=catholic
+	father=1453029
+	1805.3.12={birth=yes}
+	1816.10.24={name="Andronicus"}
+	1865.2.22={death=yes}
+}
+1453031={
+	name="Federico"
+	dynasty=2032259
+	culture=romagnol
+	religion=catholic
+	father=1453030
+	1858.7.15={birth=yes}
+	1865.2.22={name="Federicus"}
+	1920.4.7={death=yes}
+}
+1453032={
+	name="Arnaldo"
+	dynasty=2032259
+	culture=romagnol
+	religion=catholic
+	father=1453031
+	1888.6.21={birth=yes}
+	1920.4.7={name="Andronicus"}
+	1939.9.30={death=yes}
+}
+1453033={
+	name="Teodoro"
+	dynasty=2032259
+	culture=romagnol
+	religion=catholic
+	father=1453032
+	1920.1.12={birth=yes}
+	1939.9.30={name="Lucius"}
+	1992.9.11={death=yes}
+}
+1453034={
+	name="Carlo"
+	dynasty=2032259
+	culture=romagnol
+	religion=catholic
+	father=1453032
+	1924.3.26={birth=yes}
+	1992.9.11={name="Constantinus"}
+	2025.4.21={death=yes}
+}
+	
+	
+	
+
+	

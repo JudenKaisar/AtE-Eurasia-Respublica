@@ -1,0 +1,14 @@
+k_united_provinces_of_central_italy = {
+	color={ 234 217 110 }
+
+	allow = {
+		always = yes 
+	}
+
+	title = "president"
+	title_prefix = "president"
+	landless = no 
+	primary = yes
+	can_be_claimed = no
+	can_be_usurped = no
+}

@@ -1,0 +1,5 @@
+2660.1.1={
+	holder=
+	law=succ_democratic_elective
+	law=local_term_length_2
+}
